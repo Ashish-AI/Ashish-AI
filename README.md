@@ -1,4 +1,5 @@
 ### Hi there I Am Ashish  👋
+![](https://komarev.com/ghpvc/?username=Ashish-AI)
 
 - 🔭 I’m currently working on **Full Stack Development**
 - 🌱 I’m currently learning **Restful APIs**
