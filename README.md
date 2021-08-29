@@ -1,7 +1,7 @@
 ### Hi there I Am Ashish  👋
 ![](https://komarev.com/ghpvc/?username=Ashish-AI)
  
-- 🔭 I’m currently working on **App Development**
+- 🔭 I’m currently working on **App Development** 
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ashish-chaubey-934b1b190/)
 - 😄 Pronouns: He/His
