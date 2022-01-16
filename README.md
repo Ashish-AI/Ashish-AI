@@ -17,6 +17,9 @@
  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-AI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+
 
 
 
