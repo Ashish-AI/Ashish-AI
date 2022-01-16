@@ -18,7 +18,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-AI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ashish-AI&theme=juicyfresh&no-bg=true" />
+
+[![Ashish's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashish-AI&custom_title=Ashish's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 
 
