@@ -20,7 +20,7 @@
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Ashish-AI&theme=juicyfresh&no-bg=true" />
 
-[![Ashish's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashish-AI&custom_title=Ashish's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Ashish's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ashish-AI&custom_title=Ashish's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 
 
